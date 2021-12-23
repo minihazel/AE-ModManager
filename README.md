@@ -2,7 +2,7 @@
 Developed by hazelify as part of the JET / AE project. Designed to help fellow singleplayer games manage their mods easily without having to press a single key.
 
 # Info
-AEM is an AE exclusive app that allows the user to micro-manage, remove and install mods to their singleplayer easily.
+AEM is an AE exclusive app that allows the user to micro-manage, remove and install mods to their singleplayer server easily.
 
 **This app is a WIP, and things may break.**
 
